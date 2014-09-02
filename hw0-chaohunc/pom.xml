@@ -4,8 +4,8 @@
 	<artifactId>hw0-chaohunc</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:https://github.com/chaohunc/hw0-chaohunc.git</connection>
-		<developerConnection>scm:git:https://github.com/chaohunc/hw0-chaohunc.git</developerConnection>
+		<connection>scm:git:git://github.com/chaohunc/hw0-chaohunc.git</connection>
+		<developerConnection>scm:git:git://github.com/chaohunc/hw0-chaohunc.git</developerConnection>
 	</scm>
 <repositories>
 	<repository>
